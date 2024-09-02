@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07bcfe7cad6415347b5c3a5ddc38819f, type: 3}
+  m_Name: Enemy Stats
+  m_EditorClassIdentifier: 
+  hp: 3
+  damage: 3
+  moveSpeed: 80
+  knockbackForce: 30
+  knockbackTime: 0.2
+  invincibleTime: 0.3
+  minXpBonus: 3
+  maxXpBonus: 5
+  hpUp: 25
+  damageUp: 1
